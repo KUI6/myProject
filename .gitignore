@@ -1,2 +1,4 @@
 /myProject.iml
 /.idea/
+/.mvn/
+/src/test/
